@@ -1,5 +1,5 @@
 {
- "key": "1dca4280",
+ "key": "38230581",
  "stars": 0,
  "contributions": 7,
  "repos": 2,
@@ -94,9 +94,13 @@
    {
     "c": 0,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
     "today": true
    },
-   null,
    null,
    null,
    null
